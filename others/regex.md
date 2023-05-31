@@ -65,7 +65,7 @@ __regex은 regular expression의 약자로 텍스트에서 원하는 패턴을 �
   그러므로 Pattern 객체의 matcher(String)를 통해 Matcher를 생성한 뒤 사용하는 것이 안전하다.
   
 ### 코드
-
+- [테스트 코드](https://github.com/wonu606/TIL/blob/main/others/code/src/test/java/com/wonu606/regexTest.java)
 
 ## 참조
 ### 영상
