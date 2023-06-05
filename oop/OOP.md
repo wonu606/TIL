@@ -44,4 +44,4 @@ SOLID 원칙은 유지 보수와 확장이 쉬운 시스템을 만들고자 할 
 - I: Interface Segregation Principle(인터페이스 분리의 원칙)
 - D: Dependency Inversion Principle(의존성 역전의 원칙)
 
-[SOLID 자세한 설명 링크](https://github.com/wonu606/TIL/new/main/oop/SOLID.md)
+[SOLID 자세한 설명 링크](https://github.com/wonu606/TIL/blob/main/oop/SOLID.md)
