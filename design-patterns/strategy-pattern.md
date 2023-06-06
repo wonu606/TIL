@@ -19,3 +19,6 @@
 ### 단점
 - 클라이언트가 구체적인 전략을 알아야 한다.
 - 일회용 전략도 정의해주어야 한다.
+
+## 예제 코드
+[예제 코드 링크](https://github.com/wonu606/TIL/tree/main/design-patterns/code/src/main/java/com/wonu606/strategypattern)
