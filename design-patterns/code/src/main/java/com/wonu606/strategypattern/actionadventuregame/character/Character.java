@@ -1,8 +1,10 @@
 package com.wonu606.strategypattern.actionadventuregame.character;
 
+
 import com.wonu606.strategypattern.actionadventuregame.weapon.WeaponBehavior;
 
 public abstract class Character {
+
     WeaponBehavior weaponBehavior;
 
     public Character() {

@@ -1,6 +1,6 @@
 package com.wonu606.strategypattern.actionadventuregame.weapon;
 
-public class BowAndArrowBehavior implements WeaponBehavior{
+public class BowAndArrowBehavior implements WeaponBehavior {
 
     @Override
     public void useWeapon() {

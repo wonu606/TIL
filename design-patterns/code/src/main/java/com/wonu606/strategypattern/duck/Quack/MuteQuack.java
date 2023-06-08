@@ -1,6 +1,6 @@
 package com.wonu606.strategypattern.duck.Quack;
 
-public class MuteQuack implements QuackBehavior{
+public class MuteQuack implements QuackBehavior {
 
     @Override
     public void quack() {

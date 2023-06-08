@@ -4,6 +4,7 @@ import com.wonu606.strategypattern.duck.Quack.QuackBehavior;
 import com.wonu606.strategypattern.duck.fly.FlyBehavior;
 
 public abstract class Duck {
+
     FlyBehavior flyBehavior;
     QuackBehavior quackBehavior;
 

@@ -2,7 +2,8 @@
 Today I Learned
 
 ## 디자인 패턴
-* [전략 패턴(strategy-pattern)](https://github.com/wonu606/TIL/blob/main/design-patterns/strategy-pattern.md)
+* [전략 패턴(Strategy-pattern)](https://github.com/wonu606/TIL/blob/main/design-patterns/Strategy-pattern.md)
+* [옵저버 패턴(Observer-pattern)](https://github.com/wonu606/TIL/blob/main/design-patterns/Observer-pattern.md)
 
 ## 자료 구조
 * [ArrayList](https://github.com/wonu606/TIL/blob/main/data-structures/ArrayList.md)

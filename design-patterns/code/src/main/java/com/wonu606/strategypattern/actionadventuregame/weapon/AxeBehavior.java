@@ -1,6 +1,6 @@
 package com.wonu606.strategypattern.actionadventuregame.weapon;
 
-public class AxeBehavior implements WeaponBehavior{
+public class AxeBehavior implements WeaponBehavior {
 
     @Override
     public void useWeapon() {

@@ -1,7 +1,7 @@
 package com.wonu606.strategypattern.duck;
 
-import com.wonu606.strategypattern.duck.fly.FlyWithWings;
 import com.wonu606.strategypattern.duck.Quack.MuteQuack;
+import com.wonu606.strategypattern.duck.fly.FlyWithWings;
 
 public class MiniDuckSimulator {
 
