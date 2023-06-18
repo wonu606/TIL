@@ -18,5 +18,16 @@ public class OutputExample {
         greenColorCommand.run();
 
         printCommand.run();
+
+        CommandGroup commandGroup = new CommandGroup();
+
+        commandGroup.add(clearCommand);
+
+        Command cyanColorCommand = new ColorCommand(Color.CYAN);
+        commandGroup.add(cyanColorCommand);
+
+        commandGroup.add(printCommand);
+
+        commandGroup.run();
     }
 }

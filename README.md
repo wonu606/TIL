@@ -7,7 +7,7 @@ Today I Learned
 * [전략 패턴(Strategy-pattern)](https://github.com/wonu606/TIL/blob/main/design-patterns/Strategy-pattern.md)
 * [옵저버 패턴(Observer-pattern)](https://github.com/wonu606/TIL/blob/main/design-patterns/Observer-pattern.md)
 * [데코레이터 패턴(decorator-pattern)](https://github.com/wonu606/TIL/blob/main/design-patterns/Decorator-pattern.md)
-* [커맨드 패턴(Command-pattern)](https://github.com/wonu606/TIL/blob/main/design-patterns/command-pattern.md)
+* [커맨드 패턴(Command-pattern)](https://github.com/wonu606/TIL/blob/main/design-patterns/Command-pattern.md)
 * [어댑터 패턴(Adapter-pattern)](https://github.com/wonu606/TIL/blob/main/design-patterns/Adapter-pattern.md)
 * [퍼사드 패턴(Facade-pattern)](https://github.com/wonu606/TIL/blob/main/design-patterns/Facade-pattern.md)
 
