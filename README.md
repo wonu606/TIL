@@ -2,6 +2,10 @@
 
 Today I Learned
 
+## 알고리즘
+
+* [힙 정렬(Heap Sort)](https://github.com/wonu606/TIL/blob/main/algorithm/heap-sort.md)
+
 ## 디자인 패턴
 
 * [전략 패턴(Strategy-pattern)](https://github.com/wonu606/TIL/blob/main/design-patterns/Strategy-pattern.md)
