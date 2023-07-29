@@ -15,7 +15,7 @@ Today I Learned
 * [어댑터 패턴(Adapter-pattern)](https://github.com/wonu606/TIL/blob/main/design-patterns/Adapter-pattern.md)
 * [퍼사드 패턴(Facade-pattern)](https://github.com/wonu606/TIL/blob/main/design-patterns/Facade-pattern.md)
 * [비지터 패턴(Visitor-pattern)](https://github.com/wonu606/TIL/blob/main/design-patterns/Visitor-pattern.md)
-
+* [브리지 패턴(Bridge-pattern)](https://github.com/wonu606/TIL/blob/main/design-patterns/Bridge-pattern.md)
 ## 자료 구조
 
 * [ArrayList](https://github.com/wonu606/TIL/blob/main/data-structures/ArrayList.md)
