@@ -1,4 +1,4 @@
-package com.wonu606.builderpatatern.car;
+package com.wonu606.builderpattern.car;
 
 public class CarBuilder {
 

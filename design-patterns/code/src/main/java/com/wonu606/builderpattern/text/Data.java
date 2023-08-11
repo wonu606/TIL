@@ -1,4 +1,4 @@
-package com.wonu606.builderpatatern.text;
+package com.wonu606.builderpattern.text;
 
 import javax.xml.namespace.QName;
 
