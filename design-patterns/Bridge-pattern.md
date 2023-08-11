@@ -31,3 +31,7 @@
 - 큰 규모에서는 유연성과 확장성 측면에서 좋을 수 있지만,   
   작은 규모에선 오히려 코드의 가독성을 떨어트릴 수 있다.
 - 디자인이 어려울 수 있다.(초기 설계 단계에 비용이 많이 투자될 수 있음)
+
+## 예제 코드
+
+[예제코드 링크](https://github.com/wonu606/TIL/tree/main/design-patterns/code/src/main/java/com/wonu606/bridgepattern)
