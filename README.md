@@ -31,7 +31,7 @@ Today I Learned
 
 ## 책 정리
 
-* [오브젝트](https://github.com/wonu606/TIL/blob/main/book-summary/object/READMD.md)
+* [오브젝트](https://github.com/wonu606/TIL/blob/main/book-summary/object/README.md)
 
 ## Others
 
