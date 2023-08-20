@@ -36,6 +36,7 @@ Today I Learned
 ## 코드 분석
 
 * [우아한 객체 지향 챕터1](https://github.com/wonu606/TIL/blob/main/code-analysis/woowahan-oop-chapter1.md)
+* [우아한 객체 지향 챕터2](https://github.com/wonu606/TIL/blob/main/code-analysis/woowahan-oop-chapter2.md)
 
 ## Others
 

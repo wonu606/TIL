@@ -30,4 +30,4 @@
 ## 참조
 
 [우아한 객체 지향 영상 - 유투브](https://www.youtube.com/watch?v=dJ5C4qRqAgA&t=2977s)   
-[우아한 객체 지향 챕터1 코드 - 깃허브](https://github.com/eternity-oop)
+[우아한 객체 지향 챕터1 코드 - 깃허브](https://github.com/eternity-oop/Woowahan-OO-01-object-reference)
