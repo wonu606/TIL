@@ -84,7 +84,6 @@ StringBuffer
 # 결론
 - 문자열을 복사해야 한다면 StringBuilder와 StirngBuffer를 사용하자
 - 단일 스레드만을 사용할 경우엔 StringBuilder와 StringBuffer 중 속도 면에서 우월한 StringBuilder를 사용하자
-- 멀티 스레드를 사용 중이거나, 차후 멀티 스레드를 도입할 예정이 조금이라도 있다면 StringBuffer가 좋을 것 같다고 생각한다.(예상보다 속도 차이가 나지 않음)
 
 ## 참조
 - [String vs String Builder vs String Buffer - 김보섭(20221031)](https://school.programmers.co.kr/app/courses/15738/curriculum/lessons/144467#part-36579)
